@@ -10,6 +10,8 @@ $navbarBackground: white;
 
 body {
 	padding-top: 60px;
+    background-image: url(image_path('http://25.media.tumblr.com/tumblr_mdb9h1sKry1rjjttgo1_1280.jpg'));
+    background-size: cover; 
 }
 
 @import 'bootstrap-responsive';
@@ -24,7 +26,7 @@ body {
 	margin-top: 50px;
 	color: $grayLight;
 	a {
-		color: $gray;
+		color: $black;
 	}
 }
 
